@@ -6,18 +6,17 @@
 
 
 #### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PinakiBhandary1502@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pinaki.2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinaki-bhandary-4893673a0)
 ---
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/pinaki-programmer/pinaki-programmer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+---
 
 #### Stacks
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -33,15 +32,15 @@
 
 #### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinaki-programmer&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki-programmer&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
 #### GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pinaki-programmer&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
